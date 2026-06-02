@@ -13,7 +13,7 @@ from telegram.ext import (
 BOT_TOKEN    = os.getenv("BOT_TOKEN")
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 CHANNEL_NAME = "@CRQ_Hub"
-CHANNEL_LINK = "https://t.me/lcT_6ZRmUF9kNDA1"
+CHANNEL_LINK = "https://t.me/CRQ_Offical"
 TMDB_BASE    = "https://api.themoviedb.org/3"
 TMDB_IMG     = "https://image.tmdb.org/t/p/w500"
 DELETE_AFTER = 5 * 60
